@@ -1,5 +1,4 @@
-# discordBot
+# **discordBot**
 
-Um pequeno projeto em equipe para criar um bot no discord, que vai servir tanto como aprendizado para os membros, quanto como para entrosar os participantes antes mesmo de um projeto maior.
-
-![download (1)](https://user-images.githubusercontent.com/62773624/154478716-10211fc2-cc10-4d1e-bf07-c4b20d29b04f.png)
+![3491f3e50ab6a4d51a348f9cc2419842](https://user-images.githubusercontent.com/62773624/154478877-dd5dc5cf-1102-4698-916a-cd4d157f959d.jpg)
+>Um pequeno projeto em equipe para criar um bot no discord, que vai servir tanto como aprendizado para os membros, quanto como para entrosar os participantes antes mesmo de um >projeto maior.
